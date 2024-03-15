@@ -21,8 +21,8 @@ with open("readme.md", "r") as fh:
 setuptools.setup(
     name="shelly2sgready",
     version=version,
-    author="Christian Vihar",
-    author_email="chrisv1180-github@yahoo.com",
+    author="Christian V.",
+    author_email="chrisv1180-shelly2sgready@yahoo.com",
     description="Wrapper for SG-Ready heatpumps controlled by Shelly relays",
     long_description=long_description,
     long_description_content_type="text/markdown",
